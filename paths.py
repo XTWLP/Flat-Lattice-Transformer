@@ -1,7 +1,7 @@
 
 
 
-PROJECT_DIR = '/Flat-Lattice-Transformer'
+PROJECT_DIR = ''
 
 yangjie_rich_pretrain_unigram_path = PROJECT_DIR + '/embeddings/gigaword_chn.all.a2b.uni.ite50.vec'
 yangjie_rich_pretrain_bigram_path = PROJECT_DIR + '/embeddings/gigaword_chn.all.a2b.bi.ite50.vec'
